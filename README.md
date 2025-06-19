@@ -62,9 +62,12 @@ Transformación:
 
 Herramientas utilizadas: Pandas, Numpy, Seaborn, Matplotlib.pyplot, Scipy.stats, Sklearn.preprocessin (LabelEncoder, Normalizer)
 
-Pre entrega 3 de Data Science.
+PRE ENTREGA 3 DE DATA SCIENCE
 
-Tema: Ciberseguridad
+Integrantes: Analia Rivera
+             Belen Pallajero
+
+Tema: Ciberseguridad, dataset: https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
 
 Objetivo: En esta entrega buscamos cuales fueron los paises que más ataques tubieron y de que tipo, cual fue el horario más buscado para el ataque y la industria más afectada y si el ataque fue exitoso o no.
 
