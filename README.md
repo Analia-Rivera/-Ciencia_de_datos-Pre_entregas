@@ -99,6 +99,72 @@ Metodología:
 -Uso de SVM para el cual lo estandarizamos usando Standard Scaler
 
 
+PRE ENTREGA 4 . 
+
+TEMA: Cibersegurida, dataset:https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
+
+
+Objetivo del análisis
+
+El propósito de este trabajo es identificar grupos (clusters) dentro de los ataques cibernéticos detectados, con el fin de comprender patrones comunes, priorizar la respuesta y mejorar la gestión de incidentes.
+
+Para esto aplicamos técnicas de clustering no supervisado sobre variables como la severidad del ataque, el tiempo de respuesta y otras características relevantes.
+
+Metodología
+
+-Importación de librerias
+
+-Visualización del dataset y de las estadísticas de sus variables numéricas
+
+-Control de nulos en todas las columnas y de valores únicos en las columnas categoricas
+
+-Gráfico de cantidad de ataques por tipo
+
+-Gráfico de severidad de los ataques por tipo
+
+-Correlación entre las variables numéricas
+
+-Gráfico de relación entre la severidad de los ataques y el tiempo de respuesta, dependiendo de si tuvo exito o fracasó
+
+-Transformaciones logarítmicas para escalar variables con mucha dispersión
+
+-Normalización de variales usando StandardScaler
+
+-Búsqueda de clusters usando DBSCAN, llegando a 77 clusters
+
+-Ajuste parámetros eps
+
+-Evaluación de clusters usando silhouette
+
+-Gráfico para visualizar los clusters usando DBSCAN (PCA)
+
+-Cálculo y gráfico de k-distancias
+
+-Visualización con PCA
+
+-Gráfico del metodo codo
+
+-Prueba con distintos k para asegurarnos
+
+-Gráfico de clustering de ataques cibernéticos con PCA
+
+-Kmeans, fit y predict
+
+-Entrenamiento del modelo con K clusters, obtención de centroides y visualización
+
+-Comparación visual de clusters con Kmeans vs. DBSCAN
+
+-Comparación de silhouette score con Kmeans vs. DBSCAN
+
+-Conclusión
+
+-Instalación e importación de hdbscan
+
+-Ajuste del modelo y visualización en PCA para gráfico de clusters generados por HDBSCAN
+
+-Silhouette score con HDBSCAN
+
+Conclusión final
 
 
 
