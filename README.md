@@ -99,6 +99,7 @@ Metodología:
 -Uso de SVM para el cual lo estandarizamos usando Standard Scaler
 
 
+
 PRE ENTREGA 4 . 
 
 TEMA: Cibersegurida, dataset:https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
