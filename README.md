@@ -102,7 +102,7 @@ Metodología:
 
 PRE ENTREGA 4 . 
 
-TEMA: Cibersegurida, dataset:https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
+TEMA: Ciberseguridad, dataset:https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
 
 
 Objetivo del análisis
