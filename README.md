@@ -2,17 +2,17 @@
 
 Introducción: En este proyecto final trabajaremos sobre los ataques cibernéticos, es decir, sobre acciones maliciosas dirigidas a sistemas informáticos, redes o dispositivos con el objetivo de robar, alterar o destruir información. Entre los más comunes se encuentran el phishing (engaño para obtener datos personales), malware (software malicioso como virus o ransomware), ataques DDoS (saturación de servidores para interrumpir servicios) y exploits (aprovechamiento de vulnerabilidades del sistema). Estos ataques pueden afectar tanto a individuos como a empresas y gobiernos, causando pérdidas económicas, robo de identidad y daño a la reputación.
 
-Objetivo:
+## Objetivo:
 
 Al trabajar con el dataset elegido nuestro objetivo es ver qué tipo de ataques cibernéticos son, el nivel de gravedad que tuvo, la dirección IP de origen y destino, en qué región sucedió y las acciones tomadas al respecto.
 
-Integrantes:
+## Integrantes:
 
 -Analia Rivera
 
 -Belén Pellejero
 
-Datasets utilizados:
+# Datasets utilizados:
 
 Descargado de Kaggel: https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
 
@@ -67,7 +67,7 @@ Herramientas utilizadas: Pandas, Numpy, Seaborn, Matplotlib.pyplot, Scipy.stats,
 Integrantes: Analia Rivera
              Belen Pallajero
 
-Tema: Ciberseguridad, dataset: https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
+## Tema: Ciberseguridad, dataset: https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
 
 Objetivo: En esta entrega buscamos cuales fueron los paises que más ataques tubieron y de que tipo, cual fue el horario más buscado para el ataque y la industria más afectada y si el ataque fue exitoso o no.
 
@@ -102,10 +102,10 @@ Metodología:
 
 # PRE ENTREGA 4 . 
 
-TEMA: Ciberseguridad, dataset:https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
+## TEMA: Ciberseguridad, dataset:https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
 
 
-Objetivo del análisis
+## Objetivo del análisis
 
 El propósito de este trabajo es identificar grupos (clusters) dentro de los ataques cibernéticos detectados, con el fin de comprender patrones comunes, priorizar la respuesta y mejorar la gestión de incidentes.
 
