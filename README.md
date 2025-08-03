@@ -167,6 +167,22 @@ Metodología
 
 Conclusión final
 
+TRABAJO FINAL DE CIBERSEGURIDAD- DATA SCIENCE
+
+# Proyecto de Ciberseguridad - Análisis y Predicción de Ataques
+
+Este repositorio contiene una presentación desarrollada como parte de un trabajo práctico sobre ciberseguridad y análisis de datos. Se utilizó un 2 dataset sintéticoS para analizar patrones de ataques cibernéticos, predecir su éxito y aplicar modelos de clasificación y clustering.
+
+##  Objetivo
+
+- Analizar datos simulados de incidentes cibernéticos
+- Predecir si un ataque fue exitoso
+- Detectar patrones en el comportamiento de los ataques
+- Aplicar modelos de machine learning para mejorar la respuesta ante amenazas
+
+
+
+
 
 
 
