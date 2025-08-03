@@ -1,4 +1,4 @@
-Pre Entrega 2  de Data Science: Ciberseguridad - Ataques Cibernéticos
+# Pre Entrega 2  de Data Science: Ciberseguridad - Ataques Cibernéticos
 
 Introducción: En este proyecto final trabajaremos sobre los ataques cibernéticos, es decir, sobre acciones maliciosas dirigidas a sistemas informáticos, redes o dispositivos con el objetivo de robar, alterar o destruir información. Entre los más comunes se encuentran el phishing (engaño para obtener datos personales), malware (software malicioso como virus o ransomware), ataques DDoS (saturación de servidores para interrumpir servicios) y exploits (aprovechamiento de vulnerabilidades del sistema). Estos ataques pueden afectar tanto a individuos como a empresas y gobiernos, causando pérdidas económicas, robo de identidad y daño a la reputación.
 
@@ -62,7 +62,7 @@ Transformación:
 
 Herramientas utilizadas: Pandas, Numpy, Seaborn, Matplotlib.pyplot, Scipy.stats, Sklearn.preprocessin (LabelEncoder, Normalizer)
 
-PRE ENTREGA 3 DE DATA SCIENCE
+# PRE ENTREGA 3 DE DATA SCIENCE
 
 Integrantes: Analia Rivera
              Belen Pallajero
@@ -100,7 +100,7 @@ Metodología:
 
 
 
-PRE ENTREGA 4 . 
+# PRE ENTREGA 4 . 
 
 TEMA: Ciberseguridad, dataset:https://www.kaggle.com/datasets/teamincribo/cyber-security-attacks/data ; https://www.kaggle.com/datasets/shakirul09/cyber-crimes-dataset
 
@@ -167,7 +167,7 @@ Metodología
 
 Conclusión final
 
-TRABAJO FINAL DE CIBERSEGURIDAD- DATA SCIENCE
+# TRABAJO FINAL DE CIBERSEGURIDAD- DATA SCIENCE
 
 # Proyecto de Ciberseguridad - Análisis y Predicción de Ataques
 
